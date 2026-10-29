@@ -1,0 +1,10 @@
+
+[
+  { "id": 1, "name": "Burger Cheese", "image": "burger_cheese.jpeg" },
+  { "id": 2, "name": "Chicken Togora", "image": "chicken_togora.jpeg" },
+  { "id": 3, "name": "Chicken Wings", "image": "chicken_wings.jpeg" },
+  { "id": 4, "name": "Cola", "image": "cola.jpeg" },
+  { "id": 5, "name": "Combo", "image": "combo.jpeg" },
+  { "id": 2, "name": "Fanta", "image": "fanta.jpeg" },
+  { "id": 7, "name": "Spinner", "image": "spinner.jpeg" }
+]

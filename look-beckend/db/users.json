@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "username": "ali",
+    "passwordHash": "$2b$10$j2lnr1E4aQOtPI5R8JvHcuVyE5caJ.hio0g8o9I9E.eFc3vMm19s2"
+  },
+  {
+    "id": 2,
+    "username": "Sherali",
+    "passwordHash": "$2b$10$Yi3sgEJBgk88A64aV.RYcuoTpycKUdWuKvPUdxdpx4Tq.L/DbRKoi"
+  },
+  {
+    "id": 3,
+    "username": "fhfhh",
+    "passwordHash": "$2b$10$fqmHxRNcvixtSTklDAXsMeb7Nvq1JSt1/jGVcXHhuFow1/BcHmgk."
+  }
+]
